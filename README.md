@@ -29,30 +29,30 @@ Apliquei o método .unique()
 Usei o método .mean() que calcula a média
 
 Resultados:
-- Folha Salarial:
-Total da Folha Salarial Mensal é de R$2.717.493,22
+Folha Salarial:
+- Total da Folha Salarial Mensal é de R$2.717.493,22
 
-- Faturamento da Empresa:
-Faturamento Total: R$5.519.160
+Faturamento da Empresa:
+- Faturamento Total: R$5.519.160
 
-- % Funcionários que Fecharam Contrato
-Percentual Funcionários Fecharam Contrato: 86.84%
+% Funcionários que Fecharam Contrato
+- Percentual Funcionários Fecharam Contrato: 86.84%
 
-- Quantidade de Contratos por Área
-
+Quantidade de Contratos por Área
+-
 Administrativo    63
 Operações         48
 Comercial         44
 Financeiro        42
 Logística         40
 
-- Funcionários por Área
-
+Funcionários por Área
+-
 Comercial         26
 Administrativo    26
 Operações         23
 Logística         21
 Financeiro        18
 
-- Ticket Médio Mensal
-Ticket Médio Mensal: R$2.502,56
+Ticket Médio Mensal
+- Ticket Médio Mensal: R$2.502,56
