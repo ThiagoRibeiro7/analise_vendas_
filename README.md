@@ -39,7 +39,7 @@ Faturamento da Empresa:
 - Percentual Funcionários Fecharam Contrato: 86.84%
 
 Quantidade de Contratos por Área:
--
+
 Administrativo    63
 Operações         48
 Comercial         44
@@ -47,7 +47,7 @@ Financeiro        42
 Logística         40
 
 Funcionários por Área:
--
+
 Comercial         26
 Administrativo    26
 Operações         23
