@@ -14,6 +14,7 @@ O que devo calcular:
 Calculei o faturamento total de cada serviço e depois somei o faturamento de todos
 
 - Qual o % de funcionários que já fechou algum contrato?
+
 Obs: na base de serviços temos o funcionário que fechou cada serviço. Mas nem todos os funcionários que a empresa tem já fecharam algum serviço.
 Na base de funcionários temos uma lista com todos os funcionários
 Calculei Qtde_Funcionarios_Fecharam_Serviço / Qtde_Funcionários_Totais
@@ -22,7 +23,7 @@ Apliquei o método .unique()
 
 -  Calculei o total de contratos que cada área da empresa já fechou
 
--  Calcule o total de funcionários por área
+-  Calculei o total de funcionários por área
 
 -  Qual o ticket médio mensal (faturamento médio mensal) dos contratos?
 Usei o método .mean() que calcula a média
