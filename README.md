@@ -38,7 +38,7 @@ Faturamento da Empresa:
 % Funcionários que Fecharam Contrato
 - Percentual Funcionários Fecharam Contrato: 86.84%
 
-Quantidade de Contratos por Área
+Quantidade de Contratos por Área:
 -
 Administrativo    63
 Operações         48
@@ -46,7 +46,7 @@ Comercial         44
 Financeiro        42
 Logística         40
 
-Funcionários por Área
+Funcionários por Área:
 -
 Comercial         26
 Administrativo    26
@@ -54,5 +54,5 @@ Operações         23
 Logística         21
 Financeiro        18
 
-Ticket Médio Mensal
+Ticket Médio Mensal:
 - Ticket Médio Mensal: R$2.502,56
